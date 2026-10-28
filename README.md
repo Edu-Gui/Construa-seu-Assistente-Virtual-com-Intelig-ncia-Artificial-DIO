@@ -83,4 +83,3 @@ Os testes verificam cálculos, origem, reserva, recusa de ação e tratamento de
 ## Ética e segurança
 
 Sem coleta de CPF, senhas ou dados bancários. Recusa transferências e não dá garantia de rendimento. O conteúdo da base de exemplo não deve ser substituído por dados reais sem cuidado com privacidade, consentimento e proteção de credenciais.
-# Construa-seu-Assistente-Virtual-com-Intelig-ncia-Artificial-DIO
